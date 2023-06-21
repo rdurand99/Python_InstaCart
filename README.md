@@ -37,6 +37,6 @@ To launch the notebook, open terminal and run the command:
 
 
 ## Resources
-Relevant resources will be posted here
+Relevant resources will be posted here.
 
 
